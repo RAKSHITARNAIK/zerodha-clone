@@ -14,3 +14,7 @@ code {
 .nav-link{
   margin-left:40px;
 }
+.link{
+  text-decoration: none;
+  color: black;
+}
