@@ -2,11 +2,10 @@ import React from 'react';
 function Hero() {
     return (  
            <div className="container">
-     
-      <div className="row p-5 mt-5 border-bottom  text-center" >
-        <h1 className='text-muted fs-2'>Charges</h1>
-        <h4 className='text-muted mt-3 '>List of all charges and taxes</h4>
-        </div>
+            <div className="row p-5 mt-5 border-bottom  text-center" >
+                <h1 className='text-muted fs-2'>Charges</h1>
+                <h4 className='text-muted mt-3 '>List of all charges and taxes</h4>
+                </div>
         <div className="row p-5 mt-5 " >
             <div className="col-4 p-5">
                 <img src="media\pricingEquity.svg"></img>
